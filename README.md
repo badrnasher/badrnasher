@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badr Nasher</h1>
 <h3 align="center">A passionate Electrical Engineer and Data Scientist</h3>
-<img align="right" alt="Coding" width="https://i.gifer.com/fetch/w300-preview/1a/1a1925b1de116058e74cecebbce92eb6.gif")>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif")>
 
 - 🌱 I’m currently learning **Python**
 
