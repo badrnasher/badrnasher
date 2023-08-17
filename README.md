@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Badr Nasher</h1>
-<h3 align="center">A passionate Electrical Engineer and Data Scientist</h3>
+<h3 align="center">A passionate Electrical Engineer and Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/coding-freak.gif")>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Backend Development at Re:coded**
 
 - 🤝 I’m looking for help with **AI , Machine Learning ,and Data Science**
 
-- 💬 Ask me about **Pandas , Numpy ,and Seaborn**
+- 💬 Ask me about **Javascript, Node.js, and Express**
 
 - 📫 How to reach me **badrnasher@gmail.com**
 
