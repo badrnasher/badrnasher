@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badrnasher&label=Profile%20views&color=0e75b6&style=flat" alt="badrnasher" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/coding-freak.gif")>
 
-- 🌱 I’m currently learning **Backend Development at Re:coded**
+- 🌱 I’m a passionate **Backend Developer**
 
 - 🤝 I’m looking for help with **AI , Machine Learning ,and Data Science**
 
